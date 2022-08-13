@@ -17,7 +17,7 @@ const Footer = () => (
         {links.map((item) => (
           <div className="flex flex-col flex-wrap" key={item.title}>
             <h6 className="font-krona text-sm text-start">{item.title}</h6>
-            <div className="text-start">
+            <div className="text-start ">
               {item.links.map((link) => (
                 <Link
                   to={link.path}
@@ -34,7 +34,7 @@ const Footer = () => (
 
       <div className="text-yellow space-x-4 md:space-x-0 order-2 md:order-3 flex md:block mb-6 md:mb-0">
         <a
-          href="https://facebook.com"
+          href="https://www.facebook.com/hany.magdy25/"
           target="_blank"
           rel="noreferrer"
           className="hover:text-light-grey block mb-4"

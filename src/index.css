@@ -13,6 +13,9 @@ body {
   @apply font-base text-dark bg-light-grey
 
 }
+/* .active{
+  @apply text-yellow
+} */
 
 .search {
   display: grid;
