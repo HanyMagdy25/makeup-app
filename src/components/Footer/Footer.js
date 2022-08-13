@@ -13,9 +13,9 @@ const Footer = () => (
     <div className="container flex flex-col md:flex-row justify-between py-8">
       <BrandLink classes="text-yellow mb-4 md:mb-0 inline-block order-1" />
 
-      <div className="flex flex-col md:flex-row justify-between md:mx-auto space-x-0 md:space-x-8 space-y-8 md:space-y-0 order-3 md:order-2">
+      <div className="footer-custom flex flex-row flex-wrap md:flex-row justify-between md:mx-auto space-x-0 md:space-x-8 space-y-8 md:space-y-0 order-3 md:order-2">
         {links.map((item) => (
-          <div className="flex flex-col flex-wrap" key={item.title}>
+          <div className="flex flex-col flex-wrap w-2/4 sm:w-auto" key={item.title}>
             <h6 className="font-krona text-sm text-start">{item.title}</h6>
             <div className="text-start ">
               {item.links.map((link) => (
