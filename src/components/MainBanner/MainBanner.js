@@ -19,7 +19,7 @@ const MainBanner = () => (
             </p>
             <ButtonLink path="/about" text="see more" isMain />
         </div>
-        <div className="ml-0 md:ml-4 mb-4 md:mb-0 py-10 md:py-0 w-2/3 md:w-full">
+        <div className="flex justify-center ml-0 md:ml-4 mb-4 md:mb-0 py-10 md:py-0 w-2/3 md:w-full">
             <img src={bannerImg} alt="Tooth brush and a paste laying on top of a green leaf" />
         </div>
     </div>
