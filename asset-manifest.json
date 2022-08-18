@@ -1,15 +1,17 @@
 {
   "files": {
-    "main.css": "/makeup-app/static/css/main.98e222eb.css",
-    "main.js": "/makeup-app/static/js/main.8566d4b7.js",
+    "main.css": "/makeup-app/static/css/main.1ef0e92c.css",
+    "main.js": "/makeup-app/static/js/main.cb418f56.js",
     "static/js/787.a436c0fa.chunk.js": "/makeup-app/static/js/787.a436c0fa.chunk.js",
+    "static/media/img3.png": "/makeup-app/static/media/img3.cf28f28ff12d19527680.png",
+    "static/media/banner.png": "/makeup-app/static/media/banner.07275789d6f3a6e39a48.png",
     "index.html": "/makeup-app/index.html",
-    "main.98e222eb.css.map": "/makeup-app/static/css/main.98e222eb.css.map",
-    "main.8566d4b7.js.map": "/makeup-app/static/js/main.8566d4b7.js.map",
+    "main.1ef0e92c.css.map": "/makeup-app/static/css/main.1ef0e92c.css.map",
+    "main.cb418f56.js.map": "/makeup-app/static/js/main.cb418f56.js.map",
     "787.a436c0fa.chunk.js.map": "/makeup-app/static/js/787.a436c0fa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.98e222eb.css",
-    "static/js/main.8566d4b7.js"
+    "static/css/main.1ef0e92c.css",
+    "static/js/main.cb418f56.js"
   ]
 }
